@@ -1,5 +1,5 @@
 package Desconto;
-
+//Testando git
 public class CalculadorDeDesconto {
 	
 	public double calcula (Orcamento orcamento) {
