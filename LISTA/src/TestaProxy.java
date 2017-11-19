@@ -3,7 +3,7 @@ public class TestaProxy {
 
 	public static void main(String[] args) {
 		
-		boolean ativo=true;
+		boolean ativo=false;
 		
 		Sistema sistemaReal = new SistemaReal();
 		Sistema sistemaProxy = new SistemaProxy(sistemaReal);
